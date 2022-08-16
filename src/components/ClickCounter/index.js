@@ -17,9 +17,9 @@ onIncrementValue = () => {
   )
 }
 
-onIncrementCount = () => {
-  this.setState(prevState => ({count: prevState.count + 1}))
-}
+// onIncrementCount = () => {
+//   this.setState(prevState => ({count: prevState.count + 1}))
+// }
 
   render() {
 
