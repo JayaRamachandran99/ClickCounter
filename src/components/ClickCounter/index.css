@@ -1,0 +1,36 @@
+.counter-container{
+
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background-color: #f1f5f8;
+  min-height:100vh;
+}
+.heading{
+  color:#2d3a35;
+  font-family:"Roboto";
+  font-weight:bold;
+  font-size:55px;
+  text-align:center;
+}
+.counter-value{
+  color: #c20a72;
+  
+}
+
+.description{
+  color:#2e8463;
+  font-family:"Roboto";
+  font-weight:bold;
+  font-size:35px;
+}
+.clickme-button{
+  color:white;
+  background-color:#007bff;
+  padding:15px;
+  border-style:none;
+  border-radius:8px;
+  cursor: pointer;
+  outline: none;
+}
